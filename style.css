@@ -1,0 +1,19 @@
+body {
+  background-image: url("https://i.pinimg.com/originals/0a/4d/cb/0a4dcb92fa2d3c601b58d72720d6bec4.jpg");
+  background-repeat: no-repeat;
+  background-attachment: initial;
+  background-position: center;
+  
+}
+h1 {
+  color: rgb(255, 255, 255);
+}
+p {
+
+color: rgb(255, 255, 255);
+
+}
+label {
+  color: rgb(255, 255, 255);
+  padding: 8px;
+}
